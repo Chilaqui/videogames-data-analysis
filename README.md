@@ -6,9 +6,13 @@
 - **Objetivo:** Mostrar los 10–20 juegos más vendidos.
 - **Visualización:** Gráfico de barras horizontales.
 
+![alt text](image.png)
+
 ### Ventas por plataforma
 - **Objetivo:** Total de ventas por consola o plataforma.
 - **Visualización:** Gráfico de barras o pastel.
+
+![alt text](image-1.png)
 
 ### Ventas por región
 - **Objetivo:** Comparar ventas en Norteamérica, Europa, Japón y otras regiones.
